@@ -1,0 +1,18 @@
+Descripción del Problema:
+
+Imagina que tienes una población inicial de bacterias en un cultivo que se 
+reproduce cada hora con una tasa de crecimiento del 20%. Quieres estudiar cómo 
+será la población de bacterias después de 24 horas.
+
+Parámetros del Problema:
+
+Tasa de Crecimiento (a): 0.2 (representando un crecimiento del 20% por hora)
+Valor Inicial (x0): 1000 (supongamos que comenzamos con 1000 bacterias)
+Tiempo Final (Tf): 24 (queremos observar el crecimiento durante 24 horas)
+Número de Intervalos de Tiempo (N): Puedes elegir un valor como 240 para obtener 
+una aproximación más precisa (10 intervalos por hora durante 24 horas).
+Usa estos valores en tu código y observa cómo cambia la población de bacterias en 
+el transcurso de 24 horas. Recuerda ajustar el número de intervalos
+ de tiempo (N) según la precisión que desees en tu simulación. 
+ Con estos parámetros, deberías ver un crecimiento exponencial 
+ en la población de bacterias en la gráfica resultante.
